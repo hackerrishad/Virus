@@ -1,6 +1,6 @@
 
 @ECHO off
-echo hello
+echo youarehacked
 pause
 goto a
 :a
